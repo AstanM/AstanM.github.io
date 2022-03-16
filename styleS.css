@@ -1,0 +1,51 @@
+body{
+margin: 0;
+padding: O;
+background-color:rgb(191, 238, 194) ;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+img{
+    width: 100%;
+    border-radius: 30%;
+
+}
+h2{
+   font-size: 30px;
+}
+.S{
+    font-size: 25px;
+}
+p{
+    font-size: 25px;
+}
+.mar{
+    width: 40%;
+    border-radius: 30%;
+    display:inline-block;
+}
+.pal{
+    display: inline-block;
+    border-radius: 30%;
+    width: 30%;
+}
+.pel{
+    display: inline-block;
+    width: 30%;
+    border-radius: 30%;
+}
+.FI{
+    border-radius: 0;
+    width: 100%;
+}
+.h{
+    text-align: center;
+}
+.k{
+    font-size: 50px;
+    text-align: center;
+}
+
+

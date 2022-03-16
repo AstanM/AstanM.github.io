@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(195, 233, 233);
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.de{
+    width: 100%;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}
+.N{
+    border-radius: 30%;
+    display: block;
+    float: left;
+    width: 50%;
+}
+.bala{
+    border-radius: 30%;
+    width: 80%;
+}
+.final{
+    width: 100%;
+}
+.fin{
+    text-align: center;
+    font-size: 50px;
+}
